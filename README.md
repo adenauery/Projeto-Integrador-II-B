@@ -9,6 +9,6 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
 
 O Plano de Execução do Projeto Integrador II - B está disponível neste **[link](https://docs.google.com/document/d/1_1xTR3tcBa6pq6TrrLL3VteSbOTZDUy68O1iK3f4p5g/edit?usp=sharing).**
 
-As atividades previstas para o Projeto Integrador II-B estão sistematizadas neste **[documento](https://docs.google.com/document/d/1CyPEJuhyEunSJ1u277xloMwifImYILjg2F2Moy3ASkY/edit?usp=sharing)**
+Todas as atividades previstas para o Projeto Integrador II-B estão sistematizadas neste **[documento](https://docs.google.com/document/d/1CyPEJuhyEunSJ1u277xloMwifImYILjg2F2Moy3ASkY/edit?usp=sharing)**
 
-A descrição das atividades práticas pode ser acessada diretamente neste outro **[documento](https://docs.google.com/document/d/1CyPEJuhyEunSJ1u277xloMwifImYILjg2F2Moy3ASkY/edit)**
+Especificamente a descrição das atividades práticas pode ser acessada diretamente neste outro **[documento](https://docs.google.com/document/d/1CyPEJuhyEunSJ1u277xloMwifImYILjg2F2Moy3ASkY/edit)**
