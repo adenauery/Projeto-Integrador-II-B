@@ -15,4 +15,4 @@ Especificamente a descrição das atividades práticas a serem desenvolvidas pod
 
 Como verificar se um site é vulnerável a ataques de SQL Injection. Uma sequencia típica de procedimentos está disponível neste **[documento](https://github.com/adenauery/sqlmap/wiki/Explorando-o-SQLMAP)**
 
-Um tutorial de uso do Hashcat está disponível neste **[link](https://github.com/adenauery/hashcat/wiki/Explorando-o--Hashcat)**
+Um tutorial de uso do Hashcat está disponível neste **[link](https://github.com/adenauery/hashcat/wiki/Explorando-o--Hashcat)**. O Hashcat pode ser utilizado tanto no MS-Windows como em distribuições Linux.
