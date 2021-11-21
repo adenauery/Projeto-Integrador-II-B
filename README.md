@@ -16,7 +16,7 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
 **Recursos de Software para Quebra de Senhas Discutidos. Outros poderão ser empregados a critério do grupo:**
 
 * **Hashcat:** Este aplicativo pode ser utilizado tanto no MS-Windows como em distribuições Linux. Informações para uso do Hashcat estão disponíveis no link abaixo:
-  * **[Tutoriais para uso do Hashcat](https://github.com/adenauery/hashcat/wiki/Explorando-o--Hashcat)**. 
+  * **[Tutoriais para uso do Hashcat (Windows e Linux)](https://github.com/adenauery/hashcat/wiki/Explorando-o--Hashcat)**. 
 
 * **pi-ii-b-md5-cracker.py:** Programa em Python desenvolvido para quebra de Hashs MD5. Este programa já considera o alfabeto previsto pela atividade. Abaixo informações para o seu uso:
   * Obter o código do programa clicando neste [link](https://github.com/adenauery/Projeto-Integrador-II-B/blob/main/pi-ii-b-md5-cracker.py)
