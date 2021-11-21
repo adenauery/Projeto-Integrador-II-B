@@ -16,7 +16,10 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
 * Um tutorial de uso do Hashcat está disponível neste **[link](https://github.com/adenauery/hashcat/wiki/Explorando-o--Hashcat)**. O Hashcat pode ser utilizado tanto no MS-Windows como em distribuições Linux.
 
 * Programa em Python desenvolvido para quebra de Hashs MD5. Este programa já considera o alfabeto previsto pela atividade. Abaixo informações para o seu uso:
-  * Obter o código do programa clicando neste [link]()
+  * Obter o código do programa clicando neste [link](https://github.com/adenauery/Projeto-Integrador-II-B/blob/main/pi-ii-b-md5-cracker.py)
+  * Criar no mesmo diretório em que for copiado o programa (pi-ii-b-md5-cracker.py) um arquivo com o nome "Arquivo-Hashes.txt" contendo as hashs a serem quebradas
+  * Executar o progrma utilizando python3 pi-ii-b-md5-cracker.py
+  * As senhas decorrentes das hashs quebradas serão colocadas em um arquivo denominado "Arquivo-Senhas.txt"
 
 
 ### Outras práticas exercitadas, mas que não irão fazer parte dos Relatórios Parcial e Final
