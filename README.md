@@ -13,6 +13,8 @@ Todas as atividades previstas para o Projeto Integrador II-B estão sistematizad
 
 Especificamente a descrição das atividades práticas a serem desenvolvidas pode ser acessada diretamente neste outro **[documento](https://docs.google.com/document/d/1F9XyoeTbw0iuSAayJV2rKT0U_ULG0tJB2_C4pGBCu5M/edit)**
 
-Como verificar se um site é vulnerável a ataques de SQL Injection. Uma sequencia típica de procedimentos está disponível neste **[documento](https://github.com/adenauery/sqlmap/wiki/Explorando-o-SQLMAP)**
-
 Um tutorial de uso do Hashcat está disponível neste **[link](https://github.com/adenauery/hashcat/wiki/Explorando-o--Hashcat)**. O Hashcat pode ser utilizado tanto no MS-Windows como em distribuições Linux.
+
+### Outras práticas exercitadas, mas que não irão fazer parte dos Relatórios Parcial e Final
+
+Como verificar se um site é vulnerável a ataques de SQL Injection. Uma sequencia típica de procedimentos está disponível neste **[documento](https://github.com/adenauery/sqlmap/wiki/Explorando-o-SQLMAP)**
