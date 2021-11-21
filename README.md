@@ -21,7 +21,7 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
   * Obter o código do programa clicando neste [link](https://github.com/adenauery/Projeto-Integrador-II-B/blob/main/pi-ii-b-md5-cracker.py)
   * Criar no mesmo diretório em que for copiado o programa (pi-ii-b-md5-cracker.py) um arquivo com o nome "Arquivo-Hashes.txt" contendo as hashs a serem quebradas
   * Executar o progrma utilizando python3 pi-ii-b-md5-cracker.py
-  * As senhas decorrentes das hashs quebradas serão colocadas em um arquivo denominado "Arquivo-Senhas.txt"
+  * As senhas decorrentes das hashs quebradas iráo sendo colocadas em um arquivo denominado "Arquivo-Senhas.txt". Comandos de somente leitura, como o **cat** e o **tail**, podem ser utilizados para observar o conteúdo do arquivo "Arquivo-Senhas.txt" durante o processamento. Com o processamento interrompido, o mesmo pode ser lido inclusive por editores de texto.
 
 
 ### Outras práticas exercitadas, mas que não irão fazer parte dos Relatórios Parcial e Final
