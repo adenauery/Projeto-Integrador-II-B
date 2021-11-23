@@ -24,6 +24,10 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
   * Executar o progrma utilizando python3 pi-ii-b-md5-cracker.py
   * As senhas decorrentes das hashs quebradas iráo sendo colocadas em um arquivo denominado "Arquivo-Senhas.txt". Comandos de somente leitura, como o **cat** e o **tail**, podem ser utilizados para observar o conteúdo do arquivo "Arquivo-Senhas.txt" durante o processamento. Com o processamento interrompido, o mesmo pode ser lido inclusive por editores de texto.
 
+### Hashs Produzidas Pelos Grupos
+
+As hashs produzidas pelos grupos estão disponíveis neste **[arquivo](https://github.com/adenauery/Projeto-Integrador-II-B/blob/main/hashs-md5-grupos.txt)**.
+
 
 ### Outras práticas exercitadas, mas que não irão fazer parte dos Relatórios Parcial e Final
 
