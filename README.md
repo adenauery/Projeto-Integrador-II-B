@@ -33,3 +33,6 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
 ### Outras práticas exercitadas, mas que não irão fazer parte dos Relatórios Parcial e Final
 
 Como verificar se um site é vulnerável a ataques de SQL Injection. Uma sequencia típica de procedimentos está disponível neste **[documento](https://github.com/adenauery/sqlmap/wiki/Explorando-o-SQLMAP)**
+
+### Estatísticas de Ataques no Mundo
+  * https://cybermap.kaspersky.com/pt/stats
