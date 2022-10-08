@@ -27,7 +27,7 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
 ### Hashs Produzidas Pelos Grupos
 
 * As hashs produzidas pelos grupos estão disponíveis neste **[arquivo](https://github.com/adenauery/Projeto-Integrador-II-B/blob/main/hashs-md5-grupos.txt)**.
-* Desafio iniciado em 23/11/2021, 10h, com a postagem das hashs
+* Desafio iniciado em **13/11/2022, 23h59m**, com a postagem das hashs
 
 
 ### Outras práticas exercitadas, mas que não irão fazer parte dos Relatórios Parcial e Final
