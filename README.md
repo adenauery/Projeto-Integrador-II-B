@@ -7,11 +7,9 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
 
 ### Documentos Guia 
 
-* O Plano de Execução do Projeto Integrador II - B está disponível neste **[link](https://docs.google.com/document/d/1_1xTR3tcBa6pq6TrrLL3VteSbOTZDUy68O1iK3f4p5g/edit?usp=sharing).**
+* A atividade teórica (Entrega Parcial) do Projeto Integrador II-B está sistematizada neste **[documento](https://docs.google.com/document/d/1Em_dBCak86YgBbw-TmP5WTuPLX0AXukhA82_4V-PB8Y/edit?usp=sharing)**
 
-* Todas as atividades previstas para o Projeto Integrador II-B estão sistematizadas neste **[documento](https://docs.google.com/document/d/1CyPEJuhyEunSJ1u277xloMwifImYILjg2F2Moy3ASkY/edit?usp=sharing)**
-
-* Especificamente a descrição das atividades práticas a serem desenvolvidas pode ser acessada diretamente neste outro **[documento](https://docs.google.com/document/d/1F9XyoeTbw0iuSAayJV2rKT0U_ULG0tJB2_C4pGBCu5M/edit)**
+* A descrição da atividade prática a ser desenvolvida pode ser acessada diretamente neste outro **[documento](https://docs.google.com/document/d/1llRsUmV8jtQPnpm_ZKTyPHc9mmyEcvvoGf9U9W20U0M/edit?usp=sharing)**
 
 **Recursos de Software para Quebra de Senhas Discutidos. Outros poderão ser empregados a critério do grupo:**
 
@@ -28,7 +26,6 @@ Este repositório será empregado para registro dos procedimentos e/ou programas
 
 * As hashs produzidas pelos grupos estão disponíveis neste **[arquivo](https://github.com/adenauery/Projeto-Integrador-II-B/blob/main/hashs-md5-grupos.txt)**.
 * O desafio será iniciado em **19/11/2022, 10h**, com a postagem das hashs
-
 
 ### Outras práticas exercitadas, mas que não irão fazer parte dos Relatórios Parcial e Final
 
